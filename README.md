@@ -1,4 +1,4 @@
-# Runpod serverless runner for
+# Runpod serverless runner
 
 ## How to use
 
