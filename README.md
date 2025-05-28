@@ -1,4 +1,4 @@
-# Runpod serverless runner for ollama
+# Runpod serverless runner for
 
 ## How to use
 
