@@ -16,9 +16,6 @@
         "key": "MODEL_NAME",
         "value": "phi3"
       }
-    ],
-    "allowedCudaVersions": [
-      "12.8"
     ]
   }
 }
